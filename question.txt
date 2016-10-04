@@ -1,1 +1,3 @@
 why is there nothing here? 
+
+we have been working with bash, R, and github for the last two days  :)
